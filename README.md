@@ -14,11 +14,10 @@
 1. Install [VSCode][01.04].
 1. Done
 
-## Worksheets
-### 01: Git basics
+## Part 01: Git basics
 - tbc
 
-### 02: GitHub flow
+## Part 02: GitHub flow
 - tbc
 
 ## Git and GitHub <sup>[[1]][03.01]</sup>
