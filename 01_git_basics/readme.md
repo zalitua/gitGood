@@ -183,7 +183,7 @@
 
 ### 08. Bonus
 
-1. That was a lot of typing. So if you didn't know, you can use your **[up]** and **[down]** arrows go backwards and forwards in your command history. Try it out.
+1. That was a lot of typing. So if you didn't know, you can use your **[up]** and **[down]** arrows to go backwards and forwards in your command history. Try it out.
 
 1. The most useful one is **[ctrl + r]** which allows you to do a reverse search of previous commands. You can keep pressing **[ctrl + r]** to cycle through the search results. Press **[tab]** to pick the command, then **[enter]** to run it.
 
