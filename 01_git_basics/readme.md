@@ -42,6 +42,17 @@
 
     ![][15]
 
+1. We want change to **Git Bash** and set it as the default.
+
+    ![][49]
+    ![][50]
+    ![][51]
+    ![][52]
+
+1. Hover over the powershell terminal, and click the bin to **kill** it.
+
+    ![][53]
+
 1. Enter command `git status`
 1. Why does it give an error? Because your current location is not a git repository.
 
@@ -275,3 +286,12 @@ git push --set-upstream origin <branchName> // tells which place to push to
 [46]: ../images/_01_git_basics/46.png
 [47]: ../images/_01_git_basics/47.png
 [48]: ../images/_01_git_basics/48.png
+
+
+[49]: ../images/_01_git_basics/49.png
+[50]: ../images/_01_git_basics/50.png
+[51]: ../images/_01_git_basics/51.png
+[52]: ../images/_01_git_basics/52.png
+[53]: ../images/_01_git_basics/53.png
+[54]: ../images/_01_git_basics/54.png
+[55]: ../images/_01_git_basics/55.png
