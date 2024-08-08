@@ -13,8 +13,11 @@ This worksheet will go over adding a **.gitignore** file to the repository, and 
 - This specifies the files and directories that you don't want to track. For example any file that holds API keys, as you never want to expose them online. If you do accidentally commit and push to GitHub, you should rotate the API key for your app.
 - Most of the time a **.gitignore** is generated when setting up a project, or a template can be found online. There is also the case where you may want to prevent **git** from tracking something yourself.
 - For example here we have a **.env**, containing a super secret password.
+
     ![][01]
+
 - Obviously it's just not smart to commit that. So what we can do is add **.env** to the **.gitignore** and save. Then we can see that **git** will ignore it.
+
     ![][02]
 
 --------------------------------------------------

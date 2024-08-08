@@ -3,11 +3,13 @@
 1. Create/login to a [GitHub account][01.01].
 
 1. Once signed up go to settings.
-![][01.05]
-![][01.06]
+
+    ![][01.05]
+    ![][01.06]
 
 1. Check `Keep my email addresses private`, and read what it does.
-![][01.07]
+
+    ![][01.07]
 
 1. Install [git][01.02].
 1. Install [GitHub Desktop][01.03], and sign in.
