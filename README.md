@@ -17,10 +17,10 @@
 1. Done
 
 ## Part 01: Git basics
-- tbc
+- [Link](./01_git_basics/)
 
 ## Part 02: GitHub flow
-- tbc
+- [Link](./02_github_flow/)
 
 ## Git and GitHub <sup>[[1]][03.01]</sup>
 ### Introduction to git <sup>[[2]][03.02]</sup>
