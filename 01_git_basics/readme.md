@@ -205,13 +205,16 @@
 ### 09. Summary of Commands
 
 ```c
+git help
 git config --global color.ui auto // better contrast
 git config --global core.editor "nano" // easy
 git config --global core.editor "vim" // very fun
 
 git status // shows current status
 git log // show log of commit history
+git log -5 // show last 5 commits
 git log --oneline //shorter version of log
+git log -5 --oneline //last 5 oneline
 
 git branch // shows branch information
 git branch -a // include remote branches
