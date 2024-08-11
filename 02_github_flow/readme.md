@@ -36,7 +36,7 @@ This worksheet will go over adding a **.gitignore** file to the repository, and 
 
     ![][05]
 
-1. In GitHub Desktop, you will now see the changed files, as these are being **tracked** by git.
+1. In GitHub Desktop, you will now see the changed files, as these are being **tracked** by git. Note that staging/adding files on GitHub desktop is represented with the tickbox and only the ticked files will be included when committing.
 
     ![][06]
 
